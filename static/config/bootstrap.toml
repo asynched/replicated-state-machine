@@ -1,0 +1,7 @@
+bootstrap = true
+host = "127.0.0.1"
+port = 3000
+
+[[peers]]
+host = "127.0.0.1"
+port = 3080
